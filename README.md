@@ -1,4 +1,4 @@
-# Entrega-2--Modelo Lógico
+# CNA--Modelo Lógico
 
 ## **Integrantes:**
 
