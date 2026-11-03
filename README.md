@@ -4,7 +4,7 @@
 
 |Nome completo do aluno|RGM|Usuário do Github|
 |----------------------|---|------------------|
-| Caroline Barroso de Oliveria| 4806351-7|
+| Caroline Barroso de Oliveria| 4806351-7|w
 | Danielly Mariano da Costa| 4781783-6|
 | Maria Eduarda Kostkievicz Ferreira| 4790715-1|
 
