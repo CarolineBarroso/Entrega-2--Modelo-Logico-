@@ -16,4 +16,10 @@
 - **Escopo do sistema:**
 - **Justificativa da escolha:**
 - **Evidência da organização:**
-- **Responsável pela organização:**    
+- **Responsável pela organização:**
+
+## **2- Relato da entrevista**
+-**Quem:**
+-**Quando e onde:**
+-**Comprovação:**
+-**O que foi levantado:**
