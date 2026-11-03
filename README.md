@@ -28,3 +28,5 @@
 
 - **O que foi levantado:**
   3555
+  |Nome completo do aluno|RGM|Usuário do Github|
+|----------------------|---|------------------|
